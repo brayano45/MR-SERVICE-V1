@@ -1,0 +1,9 @@
+# concord:mcp-start
+[mcp_servers.concord]
+command = "concord-mcp"
+args = []
+enabled = true
+
+[mcp_servers.concord.env]
+CONCORD_REPO_ROOT = "C:\\Users\\braya\\Desktop\\MR SERVICE V1"
+# concord:mcp-end

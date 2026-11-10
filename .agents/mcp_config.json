@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "concord": {
+      "command": "concord-mcp",
+      "env": {
+        "CONCORD_REPO_ROOT": "C:\\Users\\braya\\Desktop\\MR SERVICE V1",
+        "CONCORD_AGENT_KIND": "antigravity"
+      }
+    }
+  }
+}

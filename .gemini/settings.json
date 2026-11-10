@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "concord": {
+      "command": "concord-mcp",
+      "env": {
+        "CONCORD_REPO_ROOT": "C:\\Users\\braya\\Desktop\\MR SERVICE V1"
+      }
+    }
+  },
+  "tools": {
+    "shell": {
+      "backgroundCompletionBehavior": "inject"
+    }
+  },
+  "experimental": {
+    "modelSteering": true
+  }
+}
